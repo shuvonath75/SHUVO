@@ -1,6 +1,17 @@
-div{
+.S
+{
     background-color: rgb(47, 167, 204);
-    border: 5px dashed rgb(6, 6, 114);
+    border: 3px dashed rgb(6, 6, 114);
     text-align: center;
     padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.S1{
+    background-color: rgb(47, 167, 204);
+    border: 3px dashed rgb(6, 6, 114);
+    text-align: left;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
 }
